@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-top: 25vh;
+}
+
+.container__button {
+  background-color: rgb(67, 140, 67);
+  height: 50px;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.container__randomWord {
+  display: flex;
+  justify-content: center;
+}
+
+.container__randomWord__dis {
+  border-radius: 5px;
+  padding: 0 10px;
+  padding-top: 10px;
+  color: white;
+}
